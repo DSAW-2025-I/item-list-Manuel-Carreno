@@ -108,3 +108,9 @@ Para llevar a cabo este desafío de manera eficiente, sigue estas recomendacione
 
 
 **¡Diviértete construyendo!** 🚀
+
+**Screenshot:
+![alt text](image.png)
+
+Made by:
+Manuel Carreño 
